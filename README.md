@@ -1,12 +1,12 @@
-#### legacy sit
+## legacy sit
 
 
 
-\_\_\_
+\---
 
 
 
-sitting on players, stairs, and slabs
+allows for sitting on players, stairs, and slabs in forge 1.12.2
 
 
 
@@ -18,4 +18,8 @@ i couldnt find any mods that:
 
 
 so i decided to make this
+
+
+
+some features inspired by fsit
 

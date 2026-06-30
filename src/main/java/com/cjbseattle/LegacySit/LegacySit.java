@@ -1,5 +1,6 @@
 package com.cjbseattle.LegacySit;
 
+import com.cjbseattle.LegacySit.proxy.CommonProxy;
 import com.cjbseattle.LegacySit.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
