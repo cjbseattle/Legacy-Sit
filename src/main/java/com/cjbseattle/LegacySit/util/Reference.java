@@ -11,4 +11,6 @@ public class Reference
 	public static final String COMMON = "com.cjbseattle.LegacySit.proxy.CommonProxy";
 	
 	public static final double MAX_SIT_DISTANCE = 3.5d;
+	
+	public static final int SEAT_ENTITY_ID = 0;
 }

@@ -1,6 +1,6 @@
 [
 {
-  "modid": "ls",
+  "modid": "legacysit",
   "name": "Legacy Sit",
   "description": "A mod that allows sitting (on players, stairs, slabs, etc) for legacy versions of 1.12.2 (since I couldn't find any such for older versions).",
   "version": "1.0",
